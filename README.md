@@ -16,6 +16,7 @@ After importing the storm data and the bathymetry data into setrun.py, the simul
 
 # Comparison data:
 To validate the storm surge from the simulation, water level data from NOAA Tides and Currents were taken from two locations in Florida and two locations in Puerto Rico, from days October 26th to November 3rd, and downloaded as csv files. The data was taken in 6 minutes intervals. The predicted water levels were subtracted from the observed water levels, and then graphed alongside the GeoClaw water level data for storm surge comparison. Below are the locations and the NOAA water level websites:
+
 Virginia Key, Biscayne Bay, FL: https://tidesandcurrents.noaa.gov/inundationdb/inundation.html?id=8723214
 Key West, FL:
 https://tidesandcurrents.noaa.gov/inundationdb/inundation.html?id=8724580
